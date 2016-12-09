@@ -1,0 +1,2 @@
+https://www.netfilter.org/documentation/HOWTO/netfilter-hacking-HOWTO-4.html
+http://www.paulkiddie.com/2009/10/creating-a-simple-hello-world-netfilter-module/
